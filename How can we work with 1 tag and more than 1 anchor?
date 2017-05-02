@@ -1,0 +1,3 @@
+I've managed to get the distance between 1 tag and 1 anchor.
+But how can we add a second anchor?
+We still use the same DW1000Ranging_ANCHOR.ino and DW1000Ranging_TAG.ino, or should I change some lines of codes?
